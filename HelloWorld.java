@@ -8,4 +8,8 @@ public class HelloWorld {
 		System.out.println("edit in branch lym");
 		System.out.println("*******************");
 	}
+
+	public static void print(){
+		System.out.println("ok.");
+	}
 }
