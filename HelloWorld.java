@@ -12,4 +12,8 @@ public class HelloWorld {
 	public static void process(){
 		System.out.println("process....");
 	}
+	
+	public static void print(){
+		System.out.println("ok.");
+	}
 }
