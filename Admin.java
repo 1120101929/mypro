@@ -7,4 +7,6 @@ public class Dept implements Serializable{
 	private String loc;	
 	private Integer adminId;
 	private String password;
+	private Integer flag;
+	private String name;
 }
