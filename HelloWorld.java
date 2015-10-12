@@ -5,6 +5,9 @@ package cn.lym.git;
 *@Date: 2015-10-12
 */
 public class HelloWorld {
+	/*
+	*主方法
+	*/
 	public static void main(String[] args) {
 		System.out.println("Hello Git! This is in brh branch.");
 		System.out.println("edit with branch master");
