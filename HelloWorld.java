@@ -2,6 +2,7 @@ package cn.lym.git;
 
 /**
 *@author: liuyimin
+*@Date: 2015-10-12
 */
 public class HelloWorld {
 	public static void main(String[] args) {
