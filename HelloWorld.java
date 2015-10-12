@@ -12,11 +12,14 @@ public class HelloWorld {
 		System.out.println("edit in branch lym");
 		System.out.println("*******************");
 	}
-
+	
 	public static void process(){
 		System.out.println("process....");
 	}
 	
+	/*
+	*打印OK
+	*/
 	public static void print(){
 		System.out.println("ok.");
 	}
